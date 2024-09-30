@@ -2648,8 +2648,6 @@ div.upper-header {
 @font-face {
   font-family: myFont;
   src: url("/fonts/Barlow-Bold.ttf");
-  
-
 }
 
 @font-face {
@@ -2657,7 +2655,22 @@ div.upper-header {
   src: url("/fonts/Barlow-Medium.ttf");
 }
 
-
 .organic {
   padding-left: 10px;
 }
+
+.organic-dot {
+  display: flex;
+}
+.blackmoney {width: 53.81px;
+  height: 26px;
+  top: 265.29px;
+  left: 15px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: myNum;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -0.4399999976158142px;
+  text-align: left;}
